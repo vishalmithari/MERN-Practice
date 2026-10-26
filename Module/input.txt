@@ -1,0 +1,2 @@
+Node.js is a JavaScript runtime environment.
+Piping is used to transfer data between streams.

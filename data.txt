@@ -1,0 +1,2 @@
+Hello from Node.js!
+Welcome to MERN Stack!

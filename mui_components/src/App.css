@@ -1,0 +1,102 @@
+/* Overall page */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f5f7fa;
+}
+
+
+/* App Bar */
+.app-bar {
+  background-color: #212529 !important;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2) !important;
+}
+
+.app-title {
+  font-weight: 600 !important;
+  letter-spacing: 0.5px;
+  text-align: center;
+}
+
+
+/* Main Container */
+.main-container {
+  max-width: 700px !important;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 35px !important;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 5px 25px rgba(0, 0, 0, 0.08);
+}
+
+
+/* Main Heading */
+.main-heading {
+  color: #212529;
+  margin-bottom: 10px !important;
+}
+
+
+/* Description */
+.description {
+  font-size: 16px !important;
+  margin-bottom: 25px !important;
+}
+
+
+/* Text Field */
+.name-field {
+  margin-top: 15px !important;
+}
+
+.name-field .MuiOutlinedInput-root {
+  border-radius: 10px;
+}
+
+
+/* Card */
+.custom-card {
+  margin-top: 25px;
+  border-radius: 12px !important;
+  border: 1px solid #e1e5ea;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08) !important;
+  transition: 0.3s;
+}
+
+.custom-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12) !important;
+}
+
+
+/* Card Title */
+.card-title {
+  font-weight: 600 !important;
+  margin-bottom: 8px !important;
+  color: #212529;
+}
+
+
+/* Checkbox */
+.checkbox {
+  margin-top: 15px !important;
+  color: #212529;
+}
+
+
+/* Button */
+.submit-button {
+  margin-top: 15px !important;
+  padding: 10px 30px !important;
+  border-radius: 8px !important;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  text-transform: none !important;
+  transition: 0.3s !important;
+}
+
+.submit-button:hover {
+  background-color: #343a40 !important;
+  transform: translateY(-2px);
+}

@@ -1,0 +1,2 @@
+Node.js provides powerful features for server-side programming.
+This file will be compressed using the zlib module.

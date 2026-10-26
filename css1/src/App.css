@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    width: 70%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: white;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #333;
+    margin: 10px 0;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify-content;
+    color: #555;
+}
