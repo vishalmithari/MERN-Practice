@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Steins;Gate",
+    "genre": "Sci-Fi",
+    "totalEpisodes": 24,
+    "watchedEpisodes": 24,
+    "rating": 9.0,
+    "status": "Completed"
+  },
+  {
+    "title": "Cowboy Bebop",
+    "genre": "Sci-Fi",
+    "totalEpisodes": 26,
+    "watchedEpisodes": 26,
+    "rating": 8.8,
+    "status": "Completed"
+  },
+  {
+    "title": "Vinland Saga",
+    "genre": "Historical",
+    "totalEpisodes": 48,
+    "watchedEpisodes": 20,
+    "rating": 8.8,
+    "status": "Watching"
+  },
+  {
+    "title": "The Apothecary Diaries",
+    "genre": "Mystery",
+    "totalEpisodes": 48,
+    "watchedEpisodes": 24,
+    "rating": 8.8,
+    "status": "Watching"
+  },
+  {
+    "title": "Frieren: Beyond Journey's End",
+    "genre": "Fantasy",
+    "totalEpisodes": 28,
+    "watchedEpisodes": 28,
+    "rating": 9.3,
+    "status": "Completed"
+  },
+  {
+    "title": "Your Lie in April",
+    "genre": "Romance",
+    "totalEpisodes": 22,
+    "watchedEpisodes": 22,
+    "rating": 8.6,
+    "status": "Completed"
+  },
+  {
+    "title": "Toradora!",
+    "genre": "Romance",
+    "totalEpisodes": 25,
+    "watchedEpisodes": 25,
+    "rating": 8.0,
+    "status": "Completed"
+  },
+  {
+    "title": "Kaguya-sama: Love Is War",
+    "genre": "Romance",
+    "totalEpisodes": 37,
+    "watchedEpisodes": 18,
+    "rating": 8.5,
+    "status": "Watching"
+  },
+  {
+    "title": "Fruits Basket",
+    "genre": "Drama",
+    "totalEpisodes": 63,
+    "watchedEpisodes": 30,
+    "rating": 8.2,
+    "status": "Watching"
+  },
+  {
+    "title": "Violet Evergarden",
+    "genre": "Drama",
+    "totalEpisodes": 13,
+    "watchedEpisodes": 13,
+    "rating": 8.7,
+    "status": "Completed"
+  },
+  {
+    "title": "Bocchi the Rock!",
+    "genre": "Comedy",
+    "totalEpisodes": 12,
+    "watchedEpisodes": 12,
+    "rating": 8.4,
+    "status": "Completed"
+  },
+  {
+    "title": "The Promised Neverland",
+    "genre": "Thriller",
+    "totalEpisodes": 23,
+    "watchedEpisodes": 23,
+    "rating": 8.1,
+    "status": "Completed"
+  },
+  {
+    "title": "Parasyte: The Maxim",
+    "genre": "Horror",
+    "totalEpisodes": 24,
+    "watchedEpisodes": 24,
+    "rating": 8.3,
+    "status": "Completed"
+  },
+  {
+    "title": "Made in Abyss",
+    "genre": "Adventure",
+    "totalEpisodes": 25,
+    "watchedEpisodes": 10,
+    "rating": 8.4,
+    "status": "Watching"
+  },
+  {
+    "title": "Erased",
+    "genre": "Mystery",
+    "totalEpisodes": 12,
+    "watchedEpisodes": 12,
+    "rating": 8.3,
+    "status": "Completed"
+  }
+]

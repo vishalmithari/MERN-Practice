@@ -1,0 +1,122 @@
+[
+  {
+    "title": "One Piece",
+    "genre": "Adventure",
+    "totalEpisodes": 1150,
+    "watchedEpisodes": 120,
+    "rating": 9.5,
+    "status": "Watching"
+  },
+  {
+    "title": "Naruto",
+    "genre": "Action",
+    "totalEpisodes": 220,
+    "watchedEpisodes": 220,
+    "rating": 8.4,
+    "status": "Completed"
+  },
+  {
+    "title": "Naruto: Shippuden",
+    "genre": "Action",
+    "totalEpisodes": 500,
+    "watchedEpisodes": 260,
+    "rating": 8.7,
+    "status": "Watching"
+  },
+  {
+    "title": "Bleach",
+    "genre": "Action",
+    "totalEpisodes": 366,
+    "watchedEpisodes": 80,
+    "rating": 8.2,
+    "status": "Watching"
+  },
+  {
+    "title": "Dragon Ball Z",
+    "genre": "Action",
+    "totalEpisodes": 291,
+    "watchedEpisodes": 291,
+    "rating": 8.8,
+    "status": "Completed"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "genre": "Action",
+    "totalEpisodes": 63,
+    "watchedEpisodes": 63,
+    "rating": 8.6,
+    "status": "Completed"
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "genre": "Action",
+    "totalEpisodes": 47,
+    "watchedEpisodes": 24,
+    "rating": 8.5,
+    "status": "Watching"
+  },
+  {
+    "title": "My Hero Academia",
+    "genre": "Action",
+    "totalEpisodes": 159,
+    "watchedEpisodes": 40,
+    "rating": 8.0,
+    "status": "Watching"
+  },
+  {
+    "title": "Attack on Titan",
+    "genre": "Action",
+    "totalEpisodes": 94,
+    "watchedEpisodes": 94,
+    "rating": 9.1,
+    "status": "Completed"
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "genre": "Adventure",
+    "totalEpisodes": 64,
+    "watchedEpisodes": 64,
+    "rating": 9.1,
+    "status": "Completed"
+  },
+  {
+    "title": "Hunter x Hunter",
+    "genre": "Adventure",
+    "totalEpisodes": 148,
+    "watchedEpisodes": 60,
+    "rating": 9.0,
+    "status": "Watching"
+  },
+  {
+    "title": "Death Note",
+    "genre": "Thriller",
+    "totalEpisodes": 37,
+    "watchedEpisodes": 37,
+    "rating": 8.9,
+    "status": "Completed"
+  },
+  {
+    "title": "Spy x Family",
+    "genre": "Comedy",
+    "totalEpisodes": 37,
+    "watchedEpisodes": 20,
+    "rating": 8.3,
+    "status": "Watching"
+  },
+  {
+    "title": "Chainsaw Man",
+    "genre": "Action",
+    "totalEpisodes": 12,
+    "watchedEpisodes": 12,
+    "rating": 8.4,
+    "status": "Completed"
+  },
+  {
+    "title": "Tokyo Revengers",
+    "genre": "Drama",
+    "totalEpisodes": 50,
+    "watchedEpisodes": 15,
+    "rating": 7.8,
+    "status": "Watching"
+  }
+]

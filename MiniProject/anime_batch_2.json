@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Haikyu!!",
+    "genre": "Sports",
+    "totalEpisodes": 85,
+    "watchedEpisodes": 85,
+    "rating": 8.7,
+    "status": "Completed"
+  },
+  {
+    "title": "Blue Lock",
+    "genre": "Sports",
+    "totalEpisodes": 38,
+    "watchedEpisodes": 20,
+    "rating": 8.2,
+    "status": "Watching"
+  },
+  {
+    "title": "Kuroko's Basketball",
+    "genre": "Sports",
+    "totalEpisodes": 75,
+    "watchedEpisodes": 30,
+    "rating": 8.1,
+    "status": "Watching"
+  },
+  {
+    "title": "Slam Dunk",
+    "genre": "Sports",
+    "totalEpisodes": 101,
+    "watchedEpisodes": 101,
+    "rating": 8.5,
+    "status": "Completed"
+  },
+  {
+    "title": "Dr. Stone",
+    "genre": "Adventure",
+    "totalEpisodes": 57,
+    "watchedEpisodes": 25,
+    "rating": 8.2,
+    "status": "Watching"
+  },
+  {
+    "title": "Black Clover",
+    "genre": "Fantasy",
+    "totalEpisodes": 170,
+    "watchedEpisodes": 50,
+    "rating": 8.1,
+    "status": "Watching"
+  },
+  {
+    "title": "Fairy Tail",
+    "genre": "Fantasy",
+    "totalEpisodes": 328,
+    "watchedEpisodes": 100,
+    "rating": 7.9,
+    "status": "Watching"
+  },
+  {
+    "title": "Sword Art Online",
+    "genre": "Fantasy",
+    "totalEpisodes": 96,
+    "watchedEpisodes": 96,
+    "rating": 7.5,
+    "status": "Completed"
+  },
+  {
+    "title": "Re:Zero − Starting Life in Another World",
+    "genre": "Fantasy",
+    "totalEpisodes": 50,
+    "watchedEpisodes": 18,
+    "rating": 8.1,
+    "status": "Watching"
+  },
+  {
+    "title": "That Time I Got Reincarnated as a Slime",
+    "genre": "Fantasy",
+    "totalEpisodes": 72,
+    "watchedEpisodes": 30,
+    "rating": 8.0,
+    "status": "Watching"
+  },
+  {
+    "title": "Overlord",
+    "genre": "Fantasy",
+    "totalEpisodes": 52,
+    "watchedEpisodes": 52,
+    "rating": 7.9,
+    "status": "Completed"
+  },
+  {
+    "title": "The Rising of the Shield Hero",
+    "genre": "Fantasy",
+    "totalEpisodes": 50,
+    "watchedEpisodes": 15,
+    "rating": 7.7,
+    "status": "Watching"
+  },
+  {
+    "title": "Mob Psycho 100",
+    "genre": "Action",
+    "totalEpisodes": 37,
+    "watchedEpisodes": 37,
+    "rating": 8.6,
+    "status": "Completed"
+  },
+  {
+    "title": "One-Punch Man",
+    "genre": "Action",
+    "totalEpisodes": 24,
+    "watchedEpisodes": 24,
+    "rating": 8.5,
+    "status": "Completed"
+  },
+  {
+    "title": "Code Geass",
+    "genre": "Mecha",
+    "totalEpisodes": 50,
+    "watchedEpisodes": 50,
+    "rating": 8.7,
+    "status": "Completed"
+  }
+]
